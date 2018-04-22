@@ -18,3 +18,5 @@ function increaseRankBy(n) {
     lis[i].innerHTML = num + n;
   }
 }
+
+increaseRankBy(3)
