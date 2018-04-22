@@ -19,4 +19,3 @@ function increaseRankBy(n) {
   }
 }
 
-increaseRankBy(3)
